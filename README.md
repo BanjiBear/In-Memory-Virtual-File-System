@@ -7,7 +7,7 @@ All rights belong to: CHEN Yi pu(Banjibear), Win Hong CHAI, XIE Yangxiaolong, an
 # Installation
 Make sure that java is installed on your computer. Type java --version in terminal.
 
-1. If not, please install the latest version here: https://www.oracle.com/java/technologies/downloads/ or download Intelli J IDEA
+1. If not, please install the latest version here: https://www.oracle.com/java/technologies/downloads/ or download Intelli J IDEA here: https://www.jetbrains.com/idea/download/#section=mac
 2. Open the IDEA and load the project
 3. Run and execute the source code
 
